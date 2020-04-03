@@ -13,7 +13,7 @@ jdk的源码已经存放在了安装好的jdk目录下，解压之后放到项�
 /Library/Java/JavaVirtualMachines/jdk1.8.0_231.jdk/Contents/Home/src.zip
 ```
 
-##其他
+## 其他
 jdk的源码是不能编译执行的，不要试图把当前项目转成maven项目，可以新加个test目录编写自己的测试类，复杂测试的话可以考虑重新起一个项目
 
 
